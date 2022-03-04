@@ -1,6 +1,6 @@
 ---
 title: "Gabriele Hayden"
-image: "tobi.jpg"
+image: "picture.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
